@@ -9,6 +9,7 @@ module.exports = {
     siteTitleAlt: `Jon Rojas`,
     siteTitle: `Jon Rojas`,
     siteTitleAlt: `Jon Rojas`,
+    title: `Jon Rojas`,
     siteHeadline: `Jon Rojas`,
     siteUrl: `https://jonathanrojas.com`,
     siteDescription: `The website of Jon Rojas.`,
