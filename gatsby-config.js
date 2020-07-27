@@ -7,6 +7,14 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     siteTitleAlt: `Jon Rojas`,
+    siteTitle: `Jon Rojas`,
+    siteTitleAlt: `Jon Rojas`,
+    siteHeadline: `Jon Rojas`,
+    siteUrl: `https://jonathanrojas.com`,
+    siteDescription: `The website of Jon Rojas.`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `Jon Rojas`,
   },
   plugins: [
     {
